@@ -1,0 +1,4 @@
+.env
+.idea
+processed
+pyimagesearch/__pycache__
